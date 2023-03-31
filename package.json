@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pinax/antelope-accounts": "^0.2.0",
+    "eosjs": "^22.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
